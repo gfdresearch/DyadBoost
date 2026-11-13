@@ -1,0 +1,4 @@
+model,auc
+main effects only (actor + partner),0.7303885844216419
+"DyadBoost, t0 = 0",0.7419397154850746
+"DyadBoost, t0 = 12 (post-decision variable)",0.8081236881996269

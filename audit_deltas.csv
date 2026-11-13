@@ -1,0 +1,4 @@
+dropped,flagged,auc_after,delta_auc
+d_value_similarity,False,0.7253891674440299,-0.01655054804104472
+d_conversation_valence,True,0.737421291977612,-0.004518423507462677
+d_reciprocity,True,0.7391266324626866,-0.00281308302238803
